@@ -8,6 +8,7 @@
 ! Homepage: https://github.com/DandelionSprout/adfilt/blob/master/Wiki/General-info.md#english
 
 ! Generic
+! updated again
 example.org##h1
 ##.prayer-sec_1:not(html, body)
 ##.prayerBg:not(html, body)
